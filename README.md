@@ -1,5 +1,5 @@
 # Python
-Life is short, you need Python~  
+Life is short, you need Passion~  
 #### 20180416
 廖雪峰卡~  
 #### 20180417
