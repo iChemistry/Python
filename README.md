@@ -1,8 +1,10 @@
 # Python
-Life is short, you need Python~  
+Life is short, you need Passion~  
 #### 20180416
 廖雪峰卡~  
 #### 20180417
 廖雪峰卡~  
 #### 20180418
 廖雪峰卡~
+#### 20180419  
+廖雪峰卡有点不适合，跳到《Python编程：从入门到实践》~
