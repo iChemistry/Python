@@ -182,7 +182,7 @@ Python 将带小数点的数字都称为**浮点数** 。
        message = "Happy "+age+"rd Birthday!"  
     TypeError:Can't convert 'int' object to str implicitly  
     
-这是一个 **类型错误** ，意味着 Python 无法识别你使用的信息。在这个示例中， Python 发现你使用了一个值为**整数（ int ）的变量**，但它不知道该如何解读这个值。 Python 知道，这个变量表示的可能是数值23 ，也可能是字符 2 和 3 。像上面这样在字符串中使用整数时，需要显式地指出你希望 Python 将这个整数用作字符串。为此，可调用函数 **`str()**` ，它让 Python 将非字符串值表示为字符串：    
+这是一个 **类型错误** ，意味着 Python 无法识别你使用的信息。在这个示例中， Python 发现你使用了一个值为**整数（ int ）的变量**，但它不知道该如何解读这个值。 Python 知道，这个变量表示的可能是数值23 ，也可能是字符 2 和 3 。像上面这样在字符串中使用整数时，需要显式地指出你希望 Python 将这个整数用作字符串。为此，可调用函数 **`str()`** ，它让 Python 将非字符串值表示为字符串：    
   
     age = 23
     message = "Happy " + str(age) + "rd Birthday!"  
